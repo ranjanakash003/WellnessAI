@@ -2,12 +2,6 @@
 
 Welcome to WellnessAI, a personalized wellness coach powered by Google's Gemini API. This application generates unique and actionable health tips tailored to your specific profile and goals, helping you on your journey to a healthier lifestyle.
 
-## 📸 Preview
-
-*(It's a great idea to replace this placeholder with a screenshot or GIF of your running application!)*
-
-![WellnessAI Application Preview](https://i.imgur.com/your-screenshot-url.png)
-
 ## 🚀 Features
 
 * Personalized Profile: Create a simple profile with your age, gender, and primary wellness goal to receive tailored advice.
